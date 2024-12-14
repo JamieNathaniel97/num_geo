@@ -119,4 +119,4 @@ CFL   = 0.95;         % Time step limiter. Decreasing this increases the timeste
 nop   = 1000;          % output figure produced every 'nop' steps
 %dTdto = 0;
 
-run('./diff_model_3.m');
+run('./Final_diff_model.m');
